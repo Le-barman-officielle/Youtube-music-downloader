@@ -1,34 +1,9 @@
 COMMENT UTILISER YOUTUBE AUDIO RIPPER
 🚀 Étapes pour ajouter yt-dlp au PATH sous Windows
 1. Télécharge yt-dlp.exe
-Rendez-vous sur cette page : [yt-dlp 2025.04.30 Release.](https://github.com/yt-dlp/yt-dlp/releases/tag/2025.04.30)
+Entrez la commande : winget install yt-dlp
 
-Télécharge le fichier yt-dlp.exe :
-
-Important : Ne télécharge pas un autre fichier ! Clique uniquement sur yt-dlp.exe (ne télécharge pas les fichiers .tar ou .zip).
-
-Une fois téléchargé, place yt-dlp.exe dans un dossier sur ton PC. Par exemple, crée un dossier comme C:\yt-dlp\ pour le rendre facile d’accès.
-
-2. Accède aux variables d'environnement (PATH)
-Clique droit sur le bouton Démarrer et sélectionne Système.
-
-Dans la fenêtre Système, clique sur Paramètres système avancés (à gauche).
-
-Dans la nouvelle fenêtre, clique sur Variables d'environnement….
-
-3. Ajouter yt-dlp au PATH
-Dans la fenêtre Variables d'environnement, cherche la section Variables système.
-
-Sélectionne la variable Path dans la liste et clique sur Modifier….
-
-Dans la fenêtre Modifier la variable d'environnement, clique sur Nouveau.
-
-Ajoute le chemin complet du dossier où tu as placé yt-dlp.exe. Par exemple, si tu l'as mis dans C:\yt-dlp\, entre ce chemin :
-
-C:\yt-dlp
-Clique sur OK pour fermer toutes les fenêtres.
-
-4. Vérifier si yt-dlp est bien dans le PATH
+2. Vérifier si yt-dlp est bien dans le PATH
 Ouvre une nouvelle fenêtre PowerShell ou Invite de commandes.
 
 Tape la commande suivante pour vérifier que yt-dlp est bien accessible depuis n'importe quel répertoire :
