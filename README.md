@@ -53,6 +53,7 @@ Pour cela, cherche PowerShell dans le menu Démarrer, fais un clic droit dessus 
 Tape la commande suivante pour installer FFmpeg via Winget :
 
 winget install ffmpeg
+
 Cette commande va installer FFmpeg sur ton système.
 
 Attends quelques secondes pendant que l'installation se termine. Winget téléchargera et installera FFmpeg automatiquement.
