@@ -2,9 +2,9 @@ COMMENT UTILISER YOUTUBE AUDIO RIPPER
 🚀 Étapes pour ajouter yt-dlp au PATH sous Windows
 1. Télécharge yt-dlp.exe
 
-Ouvrez l'invite de commande ou powershell
+Ouvrez l'invite de commande ou powershell.
 
-Entre la commande : winget install yt-dlp
+Entre la commande : winget install yt-dlp.
 
 2. Vérifier si yt-dlp est bien dans le PATH
 
