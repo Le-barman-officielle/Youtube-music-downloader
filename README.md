@@ -1,7 +1,7 @@
 COMMENT UTILISER YOUTUBE AUDIO RIPPER
 🚀 Étapes pour ajouter yt-dlp au PATH sous Windows
 1. Télécharge yt-dlp.exe
-Rendez-vous sur cette page : yt-dlp 2025.04.30 Release.
+Rendez-vous sur cette page : [yt-dlp 2025.04.30 Release.](https://github.com/yt-dlp/yt-dlp/releases/tag/2025.04.30)
 
 Télécharge le fichier yt-dlp.exe :
 
