@@ -5,9 +5,9 @@ title YT Audio Downloader - Style Hacker
 :menu
 cls
 echo.
-echo ================================
-echo      YOUTUBE AUDIO RIPPER      
-echo ================================
+echo =================================
+echo      YOUTUBE AUDIO DOWLOADER     
+echo =================================
 echo.
 set /p URL=Colle ici le lien YouTube : 
 echo.
